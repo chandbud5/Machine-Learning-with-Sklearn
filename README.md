@@ -3,4 +3,4 @@
 This repository consists of basic algorithms of Machine Learning implemented in Python.<br>
 All datasets used in these programs are also uploaded in this repo.
 
-Visit my portfolio at 👉👉 [CLICK HERE](https://chandbud.me/)
+### Visit my portfolio at 👉👉 [CLICK HERE](https://chandbud.me/)
